@@ -7,3 +7,4 @@ El programa cuenta con la clase principal que es HundirlaFlota.java en la que co
 
 La clase barco.java sirve para generar estos barcos al principo de la partida y almacenarlos en un ArrayList
 
+![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
